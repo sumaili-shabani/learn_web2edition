@@ -6,7 +6,7 @@
 a{
 	text-decoration: none;
 	font-size: 18px;
-	color: rgb(0, 123, 188);
+	color: rgb(12, 12, 12);
 
 }
 
@@ -33,14 +33,14 @@ video{
 footer{
 	height: 600px;
 	width: 100%;
-	background-color: rgb(40, 41, 35);
+	background-color: rgb(208, 67, 36);
 	color: white;
 	text-align: center;
 	margin-top: 100px;
 }
 
 footer+ul{
-	color: rgb(235, 237, 239);
+	color: rgb(208, 67, 36);
 }
 
 ul{
@@ -95,13 +95,13 @@ p>img{
 
 #bloc_menu{
 	text-align: center;
-	background-image: url('../images/logo_default.jpg');
+	background-image: url('../images/user-icon.jpg');
 	height: 60px;
 	background-repeat: no-repeat;
 	background-size: 7%;
 	background-position: top;
 	background-color:  transparent;
-	background-color: rgb(40, 41, 35);
+	background-color: rgb(208, 67, 36);
 
 }
 
