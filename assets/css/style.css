@@ -1,0 +1,149 @@
+*{
+	font-size: 14px;
+	font-style: normal;
+}
+
+a{
+	text-decoration: none;
+	font-size: 18px;
+	color: rgb(0, 123, 188);
+
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-size: 18px;
+	color: rgb(0, 123, 188);
+	cursor: pointer;
+}
+
+audio{
+	background-color: color: rgb(0, 123, 188);
+}
+
+video{
+	background-color: color: rgb(0, 123, 188);
+	width: 200px;
+	height: 100px;
+	border: 1px;
+	border-radius: 100%;
+	color: black;
+	border-color: red;
+}
+
+footer{
+	height: 600px;
+	width: 100%;
+	background-color: rgb(40, 41, 35);
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+}
+
+footer+ul{
+	color: rgb(235, 237, 239);
+}
+
+ul{
+	font-style: 16px;
+	text-align: justify;
+}
+
+p>img{
+	text-align: center;
+}
+
+ ul{
+	/*padding-left: 250px;*/
+	margin-bottom: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+
+}
+
+
+.img_default_user{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border-color: red;
+	float: left;
+}
+
+.text_default_description_ceo{
+	width: 200px;
+}
+.ref_drc{
+	color: rgb(208, 67, 36);
+	font-style: normal;
+	font-size: 20px;
+}
+
+.alignement{
+	width: 1000px;
+	padding-left: 28em;
+}
+
+.alignement2{
+	width: 100%;
+	padding-left: 1em;
+	text-align: center;
+}
+.img_center{
+	text-align: center;
+	padding-left: 400px;
+}
+
+#bloc_menu{
+	text-align: center;
+	background-image: url('../images/logo_default.jpg');
+	height: 60px;
+	background-repeat: no-repeat;
+	background-size: 7%;
+	background-position: top;
+	background-color:  transparent;
+	background-color: rgb(40, 41, 35);
+
+}
+
+body{
+	background-color: rgb(240, 240, 240);
+}
+
+.container {
+  width: 100%;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+.description{
+	width: 80%;
+	text-align: justify;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#img_blog{
+	float: left; 
+	width: 150px;
+	height: 150px; 
+	border-radius: 50%;
+	padding-right: 20px;
+}
+td{
+	height: 50px; border: 1px; 
+	background-color: rgb(199, 203, 209);
+	border-radius: 10%;
+	padding-right: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+#map_frame{
+	width: 85%;
+	height: 400px;
+	padding-right: 20px;
+}
