@@ -1,0 +1,14 @@
+git --version
+git init
+
+git add .
+
+git commit -m "initial commit"
+
+git log
+
+git branch css3
+
+git branch
+
+git checkout css3
