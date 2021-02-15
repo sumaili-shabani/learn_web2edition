@@ -12,3 +12,6 @@ git branch css3
 git branch
 
 git checkout css3
+
+git conf --global alias.b branch
+git conf --global alias.co checkout
